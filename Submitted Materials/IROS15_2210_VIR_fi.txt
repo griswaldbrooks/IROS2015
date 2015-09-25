@@ -1,0 +1,8 @@
+Video attachment for paper "Low-Profile Crawling for Humanoid Motion in Tight Spaces" presented at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2015.
+
+Video format: MP4 (H264 - MPEG-4)
+
+Paper Title: Low-Profile Crawling for Humanoid Motion in Tight Spaces
+Authors: Griswald Brooks, Prashanth Krishnamurthy, Farshad Khorrami
+Affiliation: Control/Robotics Research Laboratory (CRRL), Dept. of ECE, NYU Polytechnic School of Engineering, Brooklyn, NY 11201, USA
+Corresponding Author: Farshad Khorrami, khorrami@smart.poly.edu

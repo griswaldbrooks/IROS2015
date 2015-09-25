@@ -1,0 +1,3 @@
+Video attachment for paper "Low-Profile Crawling for Humanoid Motion in Tight Spaces" presented at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2015.
+
+The attached video illustrates the proposed low-profile crawling gait. The video shows both simulation studies of the proposed gait and experimental implementation on a NAO humanoid robot. 
